@@ -1,5 +1,5 @@
 # Folium_Astronomy_Institutes
-Folium application. Marking astronomy institutes on the world map
+.py file creates map but cannot show. Use ipynb file in Jupyter to see the map.
 
 ## Description
 This python-based code produces html file, aiming to mark astronomy institutes on the world map to help students to find their future place. It is designed to select research area, so people can find their interests directly.
