@@ -1,4 +1,4 @@
-# Folium_Astronomy_Institutes
+# Folium Astronomy Institutes
 .py file creates map but cannot show. Use ipynb file in Jupyter to see the map.
 ![image](https://github.com/Tylerastro/Folium_Astronomy_Institutes/blob/main/Cover.png)
 
