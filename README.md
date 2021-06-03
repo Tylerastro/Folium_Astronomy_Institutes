@@ -46,7 +46,7 @@ mcg = folium.plugins.MarkerCluster(control=False)
 map_institute.add_child(mcg)
 ```
 This will disable the clustering.
-And change the `touts = folium.plugins.FeatureGroupSubGroup(mcg, "All",show=True)` to `transient = folium.FeatureGroup( "Transients",show=False)` since we diable the main group, now each group are the main FeatureGroup.
+And change the `transient = folium.plugins.FeatureGroupSubGroup(mcg, "Transients",show=False)` to `transient = folium.FeatureGroup( "Transients",show=False)` since we diable the main group, now each group are the main FeatureGroup.
 
 ### Adding/Deleting Groups
 The catalogs function is defined in the code:
