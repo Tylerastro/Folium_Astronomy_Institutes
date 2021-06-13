@@ -1,5 +1,6 @@
 # Folium Astronomy Institutes
 .py file creates map but cannot show. Use ipynb file in Jupyter to see the map.
+Enter page directly through my github page: https://tylerastro.github.io/Folium_Astronomy_Institutes/
 ![image](https://github.com/Tylerastro/Folium_Astronomy_Institutes/blob/main/Cover.png)
 
 ## Note
