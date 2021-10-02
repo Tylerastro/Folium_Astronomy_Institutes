@@ -18,7 +18,7 @@ University of California at Berkeley","Berkeley, CA, 美國",,Yes,https://astro.
 Caltech,https://www.astro.caltech.edu,"1200 East California Boulevard
 Pasadena, California 91125","1200 E California Blvd, Pasadena, CA 91125美國",,Yes,https://www.astro.caltech.edu/join-us,https://www.astro.caltech.edu/talks-events,,34.1359033,-118.1243083
 Princeton,https://web.astro.princeton.edu,"Department of Astrophysical Sciences4 Ivy LanePrinceton University, Princeton, NJ 08544","Princeton, NJ 08544美國","Computational Astrophysics,Cosmology,Galactic,Extragalactic,High-energy,Instrumentation,ISM,Planetary,Plasma,Stellar,Space",Yes,https://web.astro.princeton.edu/jobs,https://web.astro.princeton.edu/events/colloquia,,40.3422888,-74.6588462
-ETF,https://ipa.phys.ethz.ch,,"Rämistrasse 101, 8092 Zürich, 瑞士",,No,,https://ipa.phys.ethz.ch/education/colloquium-ipa/current_semester.html,,47.3762613,8.547163418
+ETH,https://ipa.phys.ethz.ch,,"Rämistrasse 101, 8092 Zürich, 瑞士",,No,,https://ipa.phys.ethz.ch/education/colloquium-ipa/current_semester.html,,47.3762613,8.547163418
 University Of Tokyo,https://www.s.u-tokyo.ac.jp/en/story/newsletter/attraction/05.html,,,,,,,,35.71276459,139.7614633
 Imperical College London,https://www.imperial.ac.uk/astrophysics,"South Kensington Campus London SW7 2AZ, UK","Exhibition Rd, South Kensington, London SW7 2BX英國","Sun,Stars,Planets,Cosmology,Galaxy evolution",Yes,https://www.imperial.ac.uk/jobs/,,,51.4981715,-0.1740421
 UCLA,http://www.astro.ucla.edu,"430 Portola Plaza, Box 951547, Los Angeles, CA","Los Angeles, CA 90095","Galactic centre,IR astronomy,Planetary science,Extrasolar planet,Galaxy evolution,Stellar and galactic astronomy,Cosmology,High energy astrophysics",No,https://www.pa.ucla.edu/open-positions.html,,,34.0536909,-118.242766
@@ -58,7 +58,6 @@ Faculty of Physics.","Ulitsa Kolmogorova, 1, Moscow, 俄羅斯119991","Theoretic
 "University Of Maryland, College Park",https://www.astro.umd.edu,"University of Maryland
 College Park, MD 20742-2421",,"Center for Theory and Computation,Center for Research and Exploration in Space and Science Technology,Joint Space-Science Institute,Center for Planetary Origins,Lab for Millimeter-Wave Astronomy,Extragalactic Astronomy,Planetary Astronomy Group,High-energy Astrophysics Group,Space and Plasma Physics Group",Yes,,,,38.9856989,-76.9423044
 Ruprecht-Karls-Universität Heidelberg,https://www.physik.uni-heidelberg.de/?lang=en,,"Grabengasse 1, 69117 Heidelberg, 德國","Galaxy Evolution,Gravitational Lensing,Statistics and Cosmology,Computational Stellar Dynamics,Theoretical galaxy evolution and stellar dynamics,Gaia Group,Lifecycle of Star Clusters,Galaxy star formation history,White Dwarfs,Galaxy clusters,Multi-scale Star Formation,Galactic Halos,Galaxy Evolution and AGN,Star Formation,Planet Formation,Gravitational lensing and galaxy clusters,Cosmic Dust,Astrochemistry and ISM Dynamics,Physics of Stellar Objects,Exoplanet,Galactic Archaeology,AGN,Extragalactic Astrophysics & High Energy Astrophysics,Instrumentation",No,,,,49.40994405,8.707992372
-UCLA,http://www.astro.ucla.edu,"430 Portola Plaza, Box 951547, Los Angeles, CA 90095-1547","Los Angeles, CA 90095, United States","Galactic centre research,infrared Instrumentation and Airborne Astronomy,Extrasolar Planet Research and Planetary Science,Galaxies and galaxy evolution,Stellar and Galactic Astronomy,cosmology,high energy astrophysics,astroparticle physics",No,,,,34.0536909,-118.242766
 Université De Recherche Paris-Sciences-Et-Lettres,https://psl.eu/en/graduate-programs/graduate-program-astrophysics,,,"Sun, plasma,Planets, exoplanets,Stars and the interstellar medium,Galaxies and cosmology,Instrumental and digital engineering,Space engineering,High-energy astrophysics,Gravitation",,,,,48.85460568,2.33761216
 University Of Michigan,https://lsa.umich.edu/astro,"1085 S. University
 323 West Hall
@@ -73,7 +72,7 @@ Clear Water Bay, Kowloon, Hong Kong",香港清水灣,Particle Theory and Cosmolo
 Tohoku University,https://www.astr.tohoku.ac.jp/en/,"6-3, Aramaki, Aoba-ku, Sendai, Miyagi, 980-8578, Japan","2 Chome-1-1 Katahira, Aoba Ward, Sendai, Miyagi 980-8577日本","extra-solar planets,stars,galaxies,clusters of galaxies,cosmology",Yes,,https://www.astr.tohoku.ac.jp/colloquium/index.html,,38.2530945,140.8736593
 Australian National University,https://rsaa.anu.edu.au,"The Australian National University, Canberra",Canberra ACT 0200澳洲,"Black hole phenomena,Galactic archaeology,Instrumentation,Stellar and planetary astronomy,Structure and evolution of the Cosmos",Yes,,https://rsaa.anu.edu.au/news-events/seminars,,-35.28121335,149.1167789
 Sapienza University Astronomy,https://www.uniroma1.it/en/offerta-formativa/dottorato/2019/astronomy-astrophysics-and-space-sciencee,"Piazzale Aldo Moro 5, 00185 Roma","Piazzale Aldo Moro, 5, 00185 Roma RM, 義大利",,,,,,41.9013068,12.5153388
-The University Of Manchester Astronomy,https://www.physics.manchester.ac.uk,"Jodrell Bank Observatory, Lower Withington, Macclesfield, Cheshire, SK11 9DL","Schuster Building The University of, Oxford Rd, Manchester M13 9PL英國","Cosmology,Pulsars,Sun stars and galaxies",No,http://www.jodrellbank.manchester.ac.uk/research/jobs/,,,36.1886666,-115.2760716
+The University Of Manchester,https://www.physics.manchester.ac.uk,"Jodrell Bank Observatory, Lower Withington, Macclesfield, Cheshire, SK11 9DL","Schuster Building The University of, Oxford Rd, Manchester M13 9PL英國","Cosmology,Pulsars,Sun stars and galaxies",No,http://www.jodrellbank.manchester.ac.uk/research/jobs/,,,53.467054175345,-2.2340553613678
 Georgia Institute Of Technology,https://physics.gatech.edu/research,"School of Physics
 Georgia Institute of Technology
 837 State Street","North Ave NW, Atlanta, GA 30332美國","Astroparticle Physics,Black Holes and Neutron Stars,Computational Astrophysics,Cosmology and Galaxy Evolution,Gravitational Physics,High-Energy Astrophysics",No,https://physics.gatech.edu/about/employment,,,33.7713526,-84.396345
@@ -130,7 +129,7 @@ Universität Hamburg,https://www1.physik.uni-hamburg.de/en.html,,,"Astroparticle
 Perdue University,http://www.physics.purdue.edu,,,Astrophysics & Relativity,No,,,,40.42364004,-86.92123752
 University Of Pisa,http://astro.df.unipi.it/SAA/,,"Lungarno Antonio Pacinotti, 43, 56126 Pisa PI, Italy","Cosmology/ Galactic Structure and Evolution,High Energy Astrophysics/ Astroparticle,Interstellar Medium,Planetary/ Extrasolar,Plasma/ MHD/ Fluids,Stellar Astrophysics",Yes,http://astro.df.unipi.it/SAA/astro_links_job.html,,,43.71666301,10.39884874
 Sungkyunkwan University,http://physics.skku.ac.kr/xe/eng,"SKKU PHYSICS, 2066, Seobu-ro, Jangan-gu, Suwon-si, Gyeong Gi-do, Korea","25-2 Sungkyunkwan-ro, Myeongnyun 3(sam)ga-dong, Jongno-gu, Seoul, 南韓","cosmology,Experimental Gravitational Wave",No,,,,37.3003187,126.9697911
-University Of Geneva,https://www.unige.ch/en/university/presentation/,"24 rue du Général-Dufour
+University Of Geneva,https://www.unige.ch/sciences/astro/en/,"24 rue du Général-Dufour
 1211 Genève 4","1205 Geneva, 瑞士",,Yes,,,,46.19632209,6.142722569
 University Of Waterloo,https://uwaterloo.ca/astrophysics-centre/,"Department of Physics and Astronomy
 University of Waterloo
@@ -138,7 +137,7 @@ University of Waterloo
 Waterloo, Ontario, Canada N2L 3G1","200 University Ave W, Waterloo, ON N2L 3G1加拿大","Cosmology,Black hole,Gravitational waves and gravitational lenses,Galaxies,Stars,ISM,GR,QM",No,https://uwaterloo.ca/astrophysics-centre/postdoctoral-opportunities,https://uwaterloo.ca/astrophysics-centre/talks,,43.4682762,-80.5429494
 Nanjing University,https://astronomy.nju.edu.cn/,"Astronomy Building, Xianlin Campus, Nanjing University, 163 Xianlin Avenue, Nanjing, Jiangsu, 210093, P.R.China","Gulou, Nanjing, Jiangsu, 中國","High Energy Astrophysics,Solar Physics,Galaxies and Cosmology,Celestial Mechanics and Planetary Dynamics,Astronomical Reference System and Astrometry,Space Weather,Spacecraft Orbit Design and Control",Yes,https://astronomy.nju.edu.cn/cpyc/cpyc/index.html,,,32.0689019,118.7647684
 University Of Copenhagen,https://www.nbi.ku.dk/english/research/astrophysics/,"Blegdamsvej 17, 2100 København, Denmark","MHJC+3H Copenhagen Municipality, Denmark","Planets,Stars,Galaxies,Cosmology,High energy astrophysics",Yes,https://employment.ku.dk/,,,55.69682,12.57144881
-Leiden University,https://www.universiteitleiden.nl/en/science/astronomy,"Huygens Laboratory / J.H. Oort Building
+Leiden University,https://www.universiteitleiden.nl/en/science/graduate-school-of-science/phd-programmes/astronomy,"Huygens Laboratory / J.H. Oort Building
 Niels Bohrweg 2
 NL-2333 CA Leiden
 The Netherlands","Rapenburg 70, 2311 EZ Leiden, 荷蘭","Galaxies,Exoplanets, formation of stars and planets,NOVA",Yes,https://www.universiteitleiden.nl/en/science/astronomy/jobs,,,52.16863385,4.459663057
@@ -154,17 +153,17 @@ Alma Mater Studiorum - University Of Bologna,https://physics-astronomy.unibo.it/
 Michigan State University,https://astro.natsci.msu.edu/,"Biomedical & Physical Sciences Building
 567 Wilson Rd, Rm 3261
 East Lansing, MI 48824","Michigan, United States","STELLAR AND NUCLEAR ASTROPHYSICS,GALAXIES AND COSMOLOGY,COMPUTATIONAL ASTROPHYSICS,HIGH-ENERGY AND PARTICLE ASTROPHYSICS",Yes,https://astro.natsci.msu.edu/news-events/job-postings/,,,43.6211955,-84.6824346
-University Of Bristol,http://www.bristol.ac.uk/connect/,"University of Bristol
+University Of Bristol,https://www.bristol.ac.uk/physics/research/astrophysics/,"University of Bristol
 Beacon House
 Queens Road
-Bristol, BS8 1QU, UK","Bristol BS8 1TH, United Kingdom","Active Galaxies,Black holes,Clusters of Galaxies,Data-Intensive Astronomy,Exoplanet Atmospheres,Galactic Line Emission,Galaxies and their Evolution,CMB,Planet Formation and Collisional Evolution",Yes,http://www.bristol.ac.uk/physics/research/astrophysics/postgrad/,,,51.4538022,-2.5972985
+Bristol, BS8 1QU, UK","Bristol BS8 1TH, United Kingdom","Active Galaxies,Black holes,Clusters of Galaxies,Data-Intensive Astronomy,Exoplanet Atmospheres,Galactic Line Emission,Galaxies and their Evolution,CMB,Planet Formation and Collisional Evolution",No,http://www.bristol.ac.uk/physics/research/astrophysics/postgrad/,,,51.4538022,-2.5972985
 The Chinese University Of Hong Kong,http://www.phy.cuhk.edu.hk/research/areas.php?f=0,"Room 108, 1st Floor, Science Centre North Block, Department of Physics,
 The Chinese University of Hong Kong,
 Sha Tin, NT,
 Hong Kong, China","The Chinese University of Hong Kong, Central Ave, Hong Kong","Phenomenological and Computational Astrophysics and Cosmology,High-energy Astro-particle Physics,High Energy Physics,Neutrino Oscillation Experiment,Star Formation,Computational Astrophysics,Gravitational Waves,Relativity and Astrophysics",No,,,,22.4202695,114.2078634
 Rice University,https://physics.rice.edu/,"6100 Main St., Houston, TX 77005-1827","6100 Main St, Houston, TX 77005, United States","Star and Planet Formation,Space Plasma Physics",No,,,,29.7201347,-95.3987573
 The Graduate University For Advanced Studies,https://guas-astronomy.jp/eng/index.html,,"Shonankokusaimura, Hayama, Miura District, Kanagawa 240-0193, Japan",,,,,,35.26117382,139.6083461
-University Of Massachusetts Amherst,https://www.astro.umass.edu/,"Department of Astronomy
+University Of Massachusetts Amherst,https://www.astro.umass.edu/academics/grad-program?_gl=1%2A224wam%2A_ga%2AOTkwNzM1OTQzLjE2MzMxNDUxODY.%2A_ga_21RLS0L7EB%2AMTYzMzE0NTE4Ni4xLjEuMTYzMzE0NjMwNC4w&_ga=2.127086861.1275811159.1633145186-990735943.1633145186,"Department of Astronomy
 University of Massachusetts Amherst
 Lederle Graduate Research Tower, 619-E
 710 N Pleasant Street
@@ -203,3 +202,4 @@ Canadian Institute of Theoretical Astrophysics,https://www.cita.utoronto.ca/,,"6
 Herzberg Astronomy and Astrophysics Research Centre,https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre,,,"ALMA research and development,CFHT research and development,Gemini Observatory research and development",Yes,,,,48.52037414,-123.4184238
 Origins Institute,https://origins.mcmaster.ca/,,"A.N Bourns Science Building, College Ct, Hamilton, ON L8S 4L8加拿大","Origin of Space-Time,Origins of Structure in the Cosmos,Origins of Elements,Origin of Life,Origins of Species & Biodiversity,Origins of Consciousness",Yes,,,,43.26018321,-79.92181624
 Perimeter Institute,https://perimeterinstitute.ca/,,"31 Caroline St N, Waterloo, ON N2L 2Y5加拿大","Cosmology,Strong gravity",No,,,,43.4654327,-80.52724159
+University of Arizona,https://www.as.arizona.edu,,,,,,,,32.2319667604646,-110.950141588769
