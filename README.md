@@ -1,7 +1,10 @@
-# Folium Astronomy Institutes
-.py file creates map but cannot show. Use ipynb file in Jupyter to see the map.
-Enter page directly through my github page: https://tylerastro.github.io/Folium_Astronomy_Institutes/
-![image](https://github.com/Tylerastro/Folium_Astronomy_Institutes/blob/main/Cover.png)
+
+# Astronomy Institutes map
+This map contains QS Physics/Astronomy top 100 institues (or more?), aiming for an easy way to find your dream grad school.
+
+Easy access: [Compiled Map](https://tylerastro.github.io/Folium_Astronomy_Institutes/) 
+
+![](Demo.png)
 
 ## Note
 Not all institutes are included. Any helpful PR is appreciated and welcomed.
@@ -18,7 +21,7 @@ For more folium usage, please refer to https://github.com/python-visualization/f
 地圖主要使用Folium套件，詳細內容請參照 https://github.com/python-visualization/folium
 
 ## Usage
-You can open map.html file directly, which is a ready to use file.
+You can open map.html file directly, which is ready to use.
 
 Switching to different area or subjects or even more informations are feasible.
 * Edit input csv file (Adding more info and change major)
@@ -79,3 +82,8 @@ interest_research_area  = folium.plugins.FeatureGroupSubGroup(mcg, "Option_Name_
 map_institute.add_child(interest_research_area)
 catalogs(['Key word list'],interest_research_area)
 ```
+
+# TODO
+
+- [ ] Scrape script
+- [ ] Automate update
